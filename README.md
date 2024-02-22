@@ -2,15 +2,15 @@
 
 ---
 
-## 🛠️Languages and Tools :
+## 🛠️ Languages and Tools :
 
-# Advanced
+### Advanced
 [![Advanced](https://skillicons.dev/icons?i=c,cpp,css,html,py,java)](https://skillicons.dev)
 
-# Intermediate
+### Intermediate
 [![Intermediate](https://skillicons.dev/icons?i=docker,git,js,laravel,linux,php,unreal,vue,mysql)](https://skillicons.dev)
 
-# Beginner
+### Beginner
 [![Beginner](https://skillicons.dev/icons?i=bash,blender,cs,kotlin,unity)](https://skillicons.dev)
 
 ---
