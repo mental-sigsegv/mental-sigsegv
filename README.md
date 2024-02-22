@@ -5,15 +5,14 @@
 ## 🛠️ Languages and Tools
 
 ### Advanced
-[![Advanced](https://skillicons.dev/icons?i=c,cpp,css,html,py,java)](https://skillicons.dev)
+![Advanced](https://skillicons.dev/icons?i=c,cpp,css,html,py,java)
 
 ### Intermediate
-[![Intermediate](https://skillicons.dev/icons?i=docker,git,js,laravel,linux,php,unreal,vue,mysql)](https://skillicons.dev)
+![Intermediate](https://skillicons.dev/icons?i=docker,git,js,laravel,linux,php,unreal,vue,mysql)
 
 ### Beginner
-[![Beginner](https://skillicons.dev/icons?i=bash,blender,cs,kotlin,unity)](https://skillicons.dev)
+![Beginner](https://skillicons.dev/icons?i=bash,blender,cs,kotlin,unity)
 
----
 
 ## 💻 Code Challenge Platforms
 
@@ -21,7 +20,6 @@
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/l3mon_?hr_r=1)
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/l3mon_/)
 
----
 
 ## 🔥 My Statistics
 ![mental-sigsegv's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mental-sigsegv&theme=vue-dark&hide_border=true)
