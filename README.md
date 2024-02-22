@@ -24,5 +24,5 @@
 ---
 
 ## 🔥 My Statistics
-![github streak](https://streak-stats.demolab.com?user=mental-sigsegv&theme=dark&date_format=j%20M%5B%20Y%5D&hide_current_streak=true)
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mental-sigsegv&layout=compact&theme=dark)
+![mental-sigsegv's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mental-sigsegv&theme=vue-dark&hide_border=true)
+![mental-sigsegv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mental-sigsegv&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
