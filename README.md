@@ -1,7 +1,5 @@
 ## I'm Martin Klacik, Student at the [Faculty of Electrical Engineering and Information Technology](https://www.fei.stuba.sk/) of the [Slovak University of Technology](https://www.stuba.sk/) (STU) in Bratislava.
 
----
-
 ## 🛠️ Languages and Tools
 
 ### Advanced
