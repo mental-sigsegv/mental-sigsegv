@@ -2,7 +2,7 @@
 
 ---
 
-## 🛠️ Languages and Tools :
+## 🛠️ Languages and Tools
 
 ### Advanced
 [![Advanced](https://skillicons.dev/icons?i=c,cpp,css,html,py,java)](https://skillicons.dev)
@@ -15,7 +15,7 @@
 
 ---
 
-## 💻Code Challenge Platforms
+## 💻 Code Challenge Platforms
 
 [![codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/_l3moN)
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/l3mon_?hr_r=1)
