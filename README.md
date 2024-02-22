@@ -1,10 +1,10 @@
-## Hey! 👋
-I'm Martin Klacik, Student at the [Faculty of Electrical Engineering and Information Technology](https://www.fei.stuba.sk/) of the [Slovak University of Technology](https://www.stuba.sk/) (STU) in Bratislava.
+## I'm Martin Klacik, Student at the [Faculty of Electrical Engineering and Information Technology](https://www.fei.stuba.sk/) of the [Slovak University of Technology](https://www.stuba.sk/) (STU) in Bratislava.
 
 ---
 
 ## 🛠️Languages and Tools :
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
  	
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
