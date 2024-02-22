@@ -4,17 +4,9 @@
 
 ## 🛠️Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
- 	
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+[![Advanced](https://skillicons.dev/icons?i=c,cpp,css,html,py,java)](https://skillicons.dev)
+[![Intermediate](https://skillicons.dev/icons?i=docker,git,js,laravel,linux,php,unreal,vue,mysql)](https://skillicons.dev)
+[![Beginner](https://skillicons.dev/icons?i=bash,blender,cs,kotlin,unity)](https://skillicons.dev)
 
 ---
 
