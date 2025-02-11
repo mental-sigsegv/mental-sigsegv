@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=mental-sigsegv)
+
 #### I am currently learning languages and tools, including:
 - [Docker](https://www.docker.com/)
 - [GIT](https://git-scm.com/)
